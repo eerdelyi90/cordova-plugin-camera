@@ -5,11 +5,12 @@
 *.cache
 Thumbs.db
 *.DS_Store
-
+*.idea
 *.bak
 *.cache
 *.log
 *.swp
 *.user
 
+cordova-plugin-camera.iml
 /node_modules/**
